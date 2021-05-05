@@ -1,2 +1,2 @@
 # summaSensitivity
-summa sensitivity analysis codes
+This repo contains codes for summa sensitivity analysis.
